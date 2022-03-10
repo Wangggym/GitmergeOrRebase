@@ -1,6 +1,7 @@
 # GitmergeOrRebase
 Practice git merge and git rebase
 
+6. test 6
 5. test 5
 4. test4
 1. test 1
