@@ -2,6 +2,7 @@
 Practice git merge and git rebase
 
 4. test4
+1. test 1
 
 git merge 操作合并分支会让两个分支的每一次提交都按照提交时间（并不是push时间）排序，并且会将两个分支的最新一次commit点进行合并成一个新的commit，最终的分支树呈现非整条线性直线的形式
 
